@@ -1,4 +1,3 @@
-itertools
 pandas
 IPython
 ipywidgets
